@@ -8,8 +8,7 @@ MAXFLOW is an experimental, live node-based environment for Autodesk 3ds Max, bu
 > **Why release it now?** Because this is too big to build alone! We are releasing MAXFLOW into the wild to gather brilliant minds. If you are a pipeline developer, technical artist, or Python enthusiast, **we need your help** to mature this architecture, squash bugs, and build the ultimate node-based toolset for 3ds Max. 
 
 ---
-
-https://github.com/imanshirani/MAXFLOW/blob/main/SC/PR.jpg
+![screenshot](SC/PR.jpg)
 
 ---
 
