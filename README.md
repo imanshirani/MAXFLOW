@@ -36,11 +36,7 @@ MAXFLOW already establishes a strong foundation with a functional live-evaluatio
 1. Clone or download this repository.
 2. Ensure you have PySide6 installed for your 3ds Max Python environment.
 3. Run `main.py` directly from 3ds Max using the Scripting menu, or execute it via `pymxs`.
-   ```python
-   import sys
-   sys.path.append(r"C:\Path\To\MAXFLOW")
-   import main
-   main.show_maxflow()
+   
 ---
 ## 🤝 Call for Contributors!
 We are actively looking for contributors to help shape the future of MAXFLOW! Whether you want to add new node types, optimize the GraphEvaluator, improve the UI, or fix memory leaks, your PRs are highly welcome.
